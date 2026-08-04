@@ -99,7 +99,7 @@ Visualisation & Reporting
 
 ## 5. ERD - Entity Relationship Diagram
 
- https://tinyurl.com/bdz3svf9
+ ![ERD](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/ERD.png)
 
 **Core schema of the Olist dataset** – orders as the central fact table (99,441 records) connected to customers, payments, reviews, and order items, which join to products and sellers. Geolocation links to customers and sellers via zip codes. Marketing leads join to closed deals.
 
