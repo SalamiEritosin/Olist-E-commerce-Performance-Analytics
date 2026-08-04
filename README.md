@@ -192,7 +192,7 @@ The current logistics model is unfair to both customers and sellers in remote re
   [Data Analyst]
 
 - 🔗 [www.linkedin.com/in/eritosin-salami]
-- 💼 []
+- 💼 [https://github.com/SalamiEritosin]
 - 📧 [salamieritokede@gmail.com]
 
 ---
