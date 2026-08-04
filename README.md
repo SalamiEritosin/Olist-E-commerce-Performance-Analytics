@@ -127,8 +127,14 @@ Olist’s catalog is dominated by slow‑moving, low‑value items. The business
 **Findings:** 
 <br>
 Churn rate is 90% (customers with no purchase in the last 90 days). All customers are one‑time buyers and most of the converted leads from the total leads generated (B2B customers) were from an unknown channel (16.65%) . Cancellations in Sao Paulo (the largest market) are strongly correlated with estimated delivery days being high, even when the seller is geographically close. Scatter plot of distance (km) vs. estimated delivery days shows a cluster of canceled orders at short distance (<500 km) with high estimates (>15 days) which cost the Brazilian e-commerce R$95,235 in potential revenue.
-Visuals(https://tinyurl.com/23errwv3) ![customer](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/visuals/customer%20behaviour.png)
-Visuals(https://tinyurl.com/4z2b2vca)
+
+<br>
+
+ ![customer](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/visuals/customer%20behaviour.png)
+
+<br>
+
+![logistics](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/visuals/logistics%20performance.png)
 <br>
 
  **Meaning:**
