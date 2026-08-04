@@ -44,7 +44,7 @@ Specifically:
 - **Logistics:** 93% on‑time delivery but over‑estimated delivery days caused R$10,650 freight revenue loss. Sellers concentrated in Sao Paulo, leading to more than 20-day deliveries and high freight costs in remote regions.
 - **Actionable Recommendations:** Adjust delivery estimation algorithm, launch loyalty programs, rationalize product portfolio, and recruit sellers in underserved areas.
 
-  The SQL Queries used for this project can be found [here](https://tinyurl.com/pufb695a)
+  The SQL Queries used for this project can be found [here](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/tree/main/queries)
 
   Dashboard visuals can be found [here](https://tinyurl.com/bdh8a72h)
 
