@@ -114,12 +114,13 @@ Visualisation & Reporting
  A scatter plot of price vs. quantity (bubble size = total revenue) showed that the vast majority of products cluster in the bottom‑left quadrant (low price, low volume). Only a handful of products drive revenue through high volume (bottom‑right) or high price (top‑left). The top 10 products by revenue and units sold account for a disproportionate share of sales (Health_Beauty, Watches_Gifts, Bed_Bath_Table, Sports_Leisure, Computer_Accessories, Furniture_Decor, Cool_Stuff, Housewares, Auto, Garden_Tools). 
 
  <br>
+ 
  ![sales](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/visuals/sales%20%26%20revenue%20perfromance.png)
 
  <br>
+
+ ![product](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/blob/main/visuals/product%20performance.png)
  
- Visuals(https://tinyurl.com/ycxn9tau)
- Visuals(https://tinyurl.com/53b8zcc4)
 <br>
 
  **Meaning:** 
@@ -154,7 +155,6 @@ The delivery estimation algorithm is broken for short distances. Customers trust
 **Findings:** 
 <br>
 Freight cost as a percentage of product price is 2× higher in northern states (AM, RR, PA) than in Sao Paulo, even for identical products. Heavy categories (furniture, electronics) have freight percentages >20% in remote areas. Despite that, sellers are heavily concentrated in Sao Paulo, forcing long, expensive shipments.
-Visuals(https://tinyurl.com/4z2b2vca)
 <br>
 
 **Meaning:** 
