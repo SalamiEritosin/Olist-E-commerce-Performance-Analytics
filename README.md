@@ -46,7 +46,7 @@ Specifically:
 
   The SQL Queries used for this project can be found [here](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/tree/main/queries)
 
-  Dashboard visuals can be found [here](https://tinyurl.com/bdh8a72h)
+  Dashboard visuals can be found [here](https://github.com/SalamiEritosin/Olist-E-commerce-Performance-Analytics/tree/main/visuals)
 
   The interactive dashboard can be found here: [Microsoft Power BI](https://tinyurl.com/mu4t7sj9)
 
